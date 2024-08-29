@@ -11,7 +11,8 @@ Fundamentos de Fortran:
 - Subrutinas y Funciones: Definición y uso de procedimientos.
 - Manejo de Archivos: Lectura y escritura de datos desde/para archivos.
 - Arrays y Matrices: Definición, manipulación, y operaciones básicas.
-- Introducción a la Programación Modular: Uso de módulos. 
+- Introducción a la Programación Modular: Uso de módulos.
+- Introducción a los conceptos básicos de programación orientada a objetos: Herencia. Polimorfismo. Diseño Orientado a Objetos.
 - Prácticas con Ejercicios: Aplicación de los conceptos mediante ejercicios prácticos.
 
 ## Requisitos
