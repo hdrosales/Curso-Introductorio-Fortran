@@ -30,9 +30,9 @@ git clone https://github.com/hdrosales/Curso-Introductorio-Fortran.git
 
 ### 2. Navegar por las carpetas:
 
-- La carpeta *lectures* contiene los archivos de las clases.
-- La carpeta *Codigos-basicos* contiene ejemplos de códigos muy básicos.
-- La carpeta *exercises* contiene los ejercicios propuestos durante el curso.
+- La carpeta *1-lectures* contiene los archivos de las clases.
+- La carpeta *2-exercises* contiene los ejercicios propuestos durante el curso.
+- La carpeta *3-Codigos-basicos* contiene ejemplos de códigos muy básicos.
 
 ### 3. Compilar y ejecutar programas:
 dentro de la la carpeta que contiene el archivo fuente (nombre-del-programa.f95)
