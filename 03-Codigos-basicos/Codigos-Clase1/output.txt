@@ -1,0 +1,3 @@
+Número entero:   12Número real:   12.45
+Nombre:
+Jorge
